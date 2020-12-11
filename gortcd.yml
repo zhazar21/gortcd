@@ -40,7 +40,7 @@ server:
 
 # Management API.
 api:
-  addr: "localhost:3257"
+  addr: "localhost"
 
 auth:
   # if true, no credentials are checked
